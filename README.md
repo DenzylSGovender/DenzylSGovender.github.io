@@ -1,4 +1,4 @@
-# Denzyl Govender — Academic Portfolio
+# Denzyl Soobramoney Govender — Academic Portfolio
 
 A responsive academic/professional portfolio website built with plain HTML, CSS and JavaScript.
 
