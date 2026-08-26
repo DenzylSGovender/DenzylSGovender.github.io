@@ -42,7 +42,22 @@ a { color: inherit; }
 .btn-secondary { border:1px solid #bbb; }
 .hero-card { background:var(--dark); color:white; padding:2rem; min-height:410px; display:flex; flex-direction:column; justify-content:space-between; border-radius:4px; position:relative; overflow:hidden; }
 .hero-card:after { content:""; width:230px; height:230px; background:var(--accent); border-radius:50%; position:absolute; right:-90px; top:-70px; opacity:.9; }
-.initials { width:100px; height:100px; border:1px solid #444; display:grid; place-items:center; font:700 2.3rem "Space Grotesk"; position:relative; z-index:1; }
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+  position: relative;
+  z-index: 2;
+  border: 4px solid rgba(255,255,255,0.9);
+}
+
+.profile-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
 .card-label { font-size:.7rem; letter-spacing:.15em; color:#aaa; }
 .hero-card h2 { font-size:2rem; max-width:400px; }
 .hero-card p { color:#bfc2c8; }
