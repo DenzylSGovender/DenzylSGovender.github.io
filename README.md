@@ -18,19 +18,4 @@ A responsive academic/professional portfolio website built with plain HTML, CSS 
 5. Select the `main` branch and `/ (root)`.
 6. Save. GitHub will provide the published website address.
 
-## Important privacy note
 
-This public-facing version intentionally does not publish private CV fields such as date of birth, marital status, dependants, health information, criminal-record declaration, or personal phone numbers. The public site uses the professional information most relevant to an academic profile.
-
-## Next customisation
-
-Possible additions include:
-- profile photograph
-- downloadable CV
-- GitHub, ORCID and LinkedIn links
-- research project pages
-- teaching resources
-- a blog
-- Google Scholar profile
-- publication DOI links
-- contact form
