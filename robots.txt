@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://denzylsgovender.github.io/sitemap.xml
